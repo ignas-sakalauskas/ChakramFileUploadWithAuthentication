@@ -1,0 +1,17 @@
+{
+    "name": "uploadtests",
+    "description": "An example of file upload tests when API is protected.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ignas-sakalauskas/ChakramFileUploadWithAuthentication.git"
+    },
+    "license": "MIT",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "mocha ."
+    },
+    "devDependencies": {
+        "chakram": "^1.5.0",
+        "mocha": "^3.2.0"
+    }
+}
